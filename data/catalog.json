@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "A741101_GRAY",
+      "code": "A741101",
+      "color": "GRAY",
+      "title": "The Skinny Pant",
+      "size": "25-26-27-28-29",
+      "price": "32.0",
+      "category": "PANTS",
+      "image": "assets/products/A741101_GRAY.jpg",
+      "photos": [
+        "assets/gallery/A741101_GRAY_1.jpg",
+        "assets/gallery/A741101_GRAY_2.jpg"
+      ]
+    },
+    {
+      "id": "B00517101_BEIGE",
+      "code": "B00517101",
+      "color": "BEIGE",
+      "title": "The Tencel Palazzo",
+      "size": "26-27-28-29-30",
+      "price": "22.0",
+      "category": "OTHER",
+      "image": "assets/products/B00517101_BEIGE.jpg",
+      "photos": [
+        "assets/gallery/B00517101_BEIGE_1.jpg",
+        "assets/gallery/B00517101_BEIGE_2.jpg"
+      ]
+    }
+  ]
+}
