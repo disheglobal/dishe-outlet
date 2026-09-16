@@ -2,151 +2,149 @@
   'use strict';
   const cards = [...document.querySelectorAll('[data-category]')];
   const status = document.querySelector('#selection-status');
-  function updateCategory() {
-    const slug = window.location.hash.replace(/^#category\//, '');
-    const active = cards.find(card => card.dataset.category === slug);
-    cards.forEach(card => {
-      if (card === active) card.setAttribute('aria-current', 'true');
-      else card.removeAttribute('aria-current');
+  const form = document.querySelector('#code-search-form');
+  const input = document.querySelector('#code-search-input');
+  const message = document.querySelector('#code-search-message');
+  const norm = value => String(value ?? '').trim().toUpperCase().replace(/[\s-]+/g, '_');
+  const slug = value => norm(value).toLowerCase().replace(/_/g, '-');
+  let productsPromise, generation = 0, opener;
+  const dialog = document.createElement('dialog');
+  dialog.className = 'outlet-viewer';
+  dialog.setAttribute('aria-label', 'D.SHE OUTLET catalog');
+  const bar = document.createElement('header');
+  const close = document.createElement('button');
+  close.type = 'button'; close.textContent = '← MENU';
+  const heading = document.createElement('h2');
+  bar.append(close, heading);
+  const content = document.createElement('div');
+  content.className = 'outlet-products';
+  dialog.append(bar, content); document.body.append(dialog);
+
+  function closeViewer() {
+    generation++;
+    if (dialog.open) dialog.close();
+    document.body.classList.remove('outlet-viewing');
+    history.replaceState(null, '', location.pathname + location.search + '#categories');
+    if (opener?.isConnected) opener.focus();
+  }
+  close.addEventListener('click', closeViewer);
+  dialog.addEventListener('cancel', event => { event.preventDefault(); closeViewer(); });
+  async function loadProducts() {
+    if (!productsPromise) {
+      productsPromise = fetch('data/catalog.json', {cache:'no-store'}).then(response => {
+        if (!response.ok) throw Error('catalog');
+        return response.json();
+      }).then(data => {
+        if (!Array.isArray(data.products)) throw Error('catalog');
+        return data.products;
+      }).catch(error => { productsPromise = null; throw error; });
+    }
+    return productsPromise;
+  }
+  function safeImage(value) {
+    if (typeof value !== 'string') return '';
+    const url = new URL(value, location.href);
+    return url.origin === location.origin && /^https?:$/.test(url.protocol) ? url.href : '';
+  }
+  function renderProduct(product) {
+    const article = document.createElement('article');
+    article.className = 'outlet-product';
+    article.dataset.code = product.code || product.id;
+    const title = document.createElement('h3');
+    title.textContent = product.title || product.id;
+    const detail = document.createElement('p');
+    detail.textContent = [product.id, product.size ? 'Size: ' + product.size : ''].filter(Boolean).join(' · ');
+    const photos = [...new Set([product.image, ...(product.photos || [])].filter(Boolean))].map(safeImage).filter(Boolean);
+    const gallery = document.createElement('div');
+    gallery.className = 'outlet-photos';
+    gallery.tabIndex = 0;
+    gallery.setAttribute('aria-label', 'Photos: ' + product.id);
+    photos.forEach((source, index) => {
+      const image = document.createElement('img');
+      image.src = source; image.alt = product.id + ' — ' + (index + 1);
+      image.loading = index ? 'lazy' : 'eager';
+      gallery.append(image);
     });
-    status.hidden = !active;
-    status.textContent = active
-      ? `${active.querySelector('h3').textContent} — категория выбрана. Раздел товаров скоро появится.`
-      : '';
-    document.title = active ? `${active.querySelector('h3').textContent} — D.SHE OUTLET` : 'D.SHE — OUTLET';
+    const controls = document.createElement('div');
+    controls.className = 'outlet-photo-controls';
+    const previous = document.createElement('button'), next = document.createElement('button'), count = document.createElement('span');
+    previous.type = next.type = 'button';
+    previous.textContent = '←'; next.textContent = '→';
+    previous.setAttribute('aria-label', 'Previous photo'); next.setAttribute('aria-label', 'Next photo');
+    let current = 0;
+    const update = () => {
+      current = Math.max(0, Math.min(photos.length - 1, Math.round(gallery.scrollLeft / (gallery.clientWidth || 1))));
+      count.textContent = photos.length ? (current + 1) + ' / ' + photos.length : 'No photos';
+      previous.disabled = current <= 0; next.disabled = current >= photos.length - 1;
+    };
+    previous.onclick = () => gallery.scrollTo({left:(current - 1) * gallery.clientWidth, behavior:'smooth'});
+    next.onclick = () => gallery.scrollTo({left:(current + 1) * gallery.clientWidth, behavior:'smooth'});
+    gallery.addEventListener('scroll', update);
+    controls.append(previous, count, next);
+    article.append(title, detail, gallery, controls);
+    update();
+    return article;
   }
-  window.addEventListener('hashchange', updateCategory);
-  updateCategory();
-})();
-
-
-/* PRODUCT CODE SEARCH */
-(function(){
-  const form = document.getElementById('code-search-form');
-  const input = document.getElementById('code-search-input');
-  const message = document.getElementById('code-search-message');
-  if(!form || !input) return;
-
-  let productsCache = null;
-
-  const norm = (v) => String(v ?? '').trim().toUpperCase().replace(/\s+/g,'');
-
-  function getProducts(data){
-    if(Array.isArray(data)) return data;
-    if(data && Array.isArray(data.products)) return data.products;
-    if(data && Array.isArray(data.items)) return data.items;
-    if(data && typeof data === 'object'){
-      for(const value of Object.values(data)){
-        if(Array.isArray(value) && value.length && typeof value[0] === 'object') return value;
-      }
+  async function show(title, filter) {
+    const request = ++generation;
+    opener = document.activeElement === close ? opener : document.activeElement;
+    heading.textContent = title;
+    content.textContent = 'Loading…';
+    if (!dialog.open) dialog.showModal();
+    document.body.classList.add('outlet-viewing');
+    try {
+      const products = (await loadProducts()).filter(filter);
+      if (request !== generation) return;
+      content.replaceChildren();
+      if (!products.length) content.textContent = 'В этой категории пока нет моделей OUTLET.';
+      products.forEach(product => content.append(renderProduct(product)));
+      content.scrollTop = 0;
+    } catch (_) {
+      if (request === generation) content.textContent = 'Не удалось загрузить каталог. Закройте окно и попробуйте ещё раз.';
     }
-    return [];
   }
-
-  async function loadProducts(){
-    if(productsCache) return productsCache;
-    const res = await fetch('data/catalog.json?ts=' + Date.now(), {cache:'no-store'});
-    const data = await res.json();
-    productsCache = getProducts(data);
-    return productsCache;
-  }
-
-  function codeOf(product){
-    const candidates = [
-      product.code, product.product_code, product.productCode,
-      product.ProductCode, product.sku, product.SKU,
-      product.article, product.Article, product.id, product.ID
-    ];
-    for(const value of candidates){
-      if(value !== undefined && value !== null && String(value).trim()) return String(value);
-    }
-    return '';
-  }
-
-  function productTarget(product){
-    return product.url || product.href || product.link || product.path || '';
-  }
-
-  function productImage(product){
-    return product.image || product.image_path || product.imagePath || product.collage || product.photo || '';
-  }
-
-  function productCategory(product){
-    return product.category || product.Category || product.group || '';
-  }
-
-  form.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const q = norm(input.value);
-    if(!q){
-      message.textContent = '';
-      input.focus();
+  function route() {
+    const match = location.hash.match(/^#category\/([^/]+)$/);
+    if (!match) {
+      generation++;
+      if (dialog.open) dialog.close();
+      document.body.classList.remove('outlet-viewing');
       return;
     }
-
-    message.textContent = 'SEARCHING...';
-
-    try{
-      const products = await loadProducts();
-      const exact = products.find(p => norm(codeOf(p)) === q);
-      const partial = exact || products.find(p => norm(codeOf(p)).includes(q));
-      const product = partial;
-
-      if(!product){
-        message.textContent = 'PRODUCT NOT FOUND';
-        return;
-      }
-
-      message.textContent = '';
-
-      const direct = productTarget(product);
-      if(direct){
-        window.location.href = direct;
-        return;
-      }
-
-      const code = codeOf(product);
-      const category = productCategory(product);
-
-      // If the current catalog uses hash navigation, keep that convention.
-      if(category){
-        window.location.hash = 'category/' + String(category).toLowerCase().replace(/\s+/g,'-');
-      }
-
-      // Dispatch a custom event so the existing viewer can react if it supports it.
-      window.dispatchEvent(new CustomEvent('outlet:product-search', {detail:{product, code}}));
-
-      // Try to locate an already-rendered product/card by code.
-      const selectors = [
-        `[data-code="${CSS.escape(code)}"]`,
-        `[data-product-code="${CSS.escape(code)}"]`,
-        `#${CSS.escape(code)}`
-      ];
-      for(const sel of selectors){
-        const el = document.querySelector(sel);
-        if(el){
-          el.scrollIntoView({behavior:'smooth', block:'center'});
-          el.classList.add('search-hit');
-          setTimeout(()=>el.classList.remove('search-hit'),1800);
-          return;
-        }
-      }
-
-      // If no product cards are rendered yet, show a concise confirmation.
-      const img = productImage(product);
-      message.textContent = 'FOUND: ' + code;
-      if(img){
-        const a = document.createElement('a');
-        a.href = img;
-        a.textContent = ' OPEN PRODUCT';
-        a.style.color = '#111';
-        a.style.marginLeft = '8px';
-        message.appendChild(a);
-      }
-    }catch(err){
-      console.error(err);
-      message.textContent = 'SEARCH ERROR';
+    const category = norm(decodeURIComponent(match[1]));
+    status.hidden = true;
+    show(category.replace(/_/g, ' '), product => norm(product.category) === category);
+  }
+  function bind(card) {
+    card.addEventListener('click', event => {
+      event.preventDefault();
+      const target = '#category/' + card.dataset.category;
+      if (location.hash === target) route(); else location.hash = target;
+    });
+  }
+  cards.forEach(bind);
+  // Keep uncategorized and future categories reachable without changing existing covers.
+  loadProducts().then(products => {
+    const known = new Set(cards.map(card => norm(card.dataset.category)));
+    const extra = [...new Set(products.map(product => norm(product.category || 'OTHER')))].filter(category => !known.has(category));
+    if (!extra.length) return;
+    const links = document.createElement('div'); links.className = 'outlet-extra-categories';
+    for (const category of extra) {
+      const link = document.createElement('a');
+      link.href = '#category/' + slug(category); link.dataset.category = slug(category);
+      link.textContent = category === 'OTHER' ? 'OTHER / ДРУГИЕ МОДЕЛИ' : category.replace(/_/g,' ');
+      bind(link); links.append(link);
     }
+    document.querySelector('.category-grid').after(links);
+  }).catch(() => {});
+  form.addEventListener('submit', async event => {
+    event.preventDefault();
+    const query = norm(input.value);
+    if (!query) { message.textContent = ''; return; }
+    message.textContent = '';
+    await show('SEARCH: ' + input.value.trim(), product =>
+      [product.code, product.id].some(value => norm(value).includes(query)));
   });
+  window.addEventListener('hashchange', route);
+  route();
 })();
-
