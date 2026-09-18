@@ -346,21 +346,6 @@
       "thumbnail": "assets/thumbs/B9278101_BLACK.jpg"
     },
     {
-      "id": "R3702102_BLACK",
-      "code": "R3702102",
-      "color": "BLACK",
-      "title": "Big Size",
-      "size": "36, 38, 40, 42",
-      "price": "28.0",
-      "category": "BIG_SIZE",
-      "categories": [
-        "BIG_SIZE"
-      ],
-      "type": "BIG SIZE",
-      "image": "assets/products/R3702102_BLACK.jpg",
-      "thumbnail": "assets/thumbs/R3702102_BLACK.jpg"
-    },
-    {
       "id": "S9270102_BLUE",
       "code": "S9270102",
       "color": "BLUE",
@@ -830,7 +815,7 @@
       "code": "L7731101",
       "color": "BLUE",
       "title": "Elbi̇se",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "23.0",
       "category": "DRESS",
       "categories": [
@@ -845,7 +830,7 @@
       "code": "L7731102",
       "color": "BLUE",
       "title": "Elbi̇se",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "23.0",
       "category": "DRESS",
       "categories": [
@@ -1190,7 +1175,7 @@
       "code": "U5352101",
       "color": "GRAY",
       "title": "Ceket",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "39.0",
       "category": "JACKET",
       "categories": [
@@ -2179,7 +2164,7 @@
       "code": "RO00446104",
       "color": "GREEN",
       "title": "Tri̇ko",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "18.0",
       "category": "KNITWEAR",
       "categories": [
@@ -2194,7 +2179,7 @@
       "code": "RO00448104",
       "color": "GREEN",
       "title": "Tri̇ko",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "17.0",
       "category": "KNITWEAR",
       "categories": [
@@ -2209,7 +2194,7 @@
       "code": "RO00450103",
       "color": "GRAY",
       "title": "Tri̇ko Dress",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "21.0",
       "category": "KNITWEAR",
       "categories": [
@@ -2949,6 +2934,21 @@
       "thumbnail": "assets/thumbs/B3800101_BLACK.jpg"
     },
     {
+      "id": "R3702102_BLACK",
+      "code": "R3702102",
+      "color": "BLACK",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "28.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/R3702102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/R3702102_BLACK.jpg"
+    },
+    {
       "id": "S3589101_BLACK",
       "code": "S3589101",
       "color": "BLACK",
@@ -2998,7 +2998,7 @@
       "code": "UE001440102",
       "color": "LEOPARD",
       "title": "Takim",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "28.0",
       "category": "SUIT",
       "categories": [
@@ -3013,7 +3013,7 @@
       "code": "UE001441101",
       "color": "LEOPARD",
       "title": "Takim",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "28.0",
       "category": "SUIT",
       "categories": [
@@ -3028,7 +3028,7 @@
       "code": "UE001442101",
       "color": "LEOPARD",
       "title": "Takim",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "28.0",
       "category": "SUIT",
       "categories": [
@@ -3043,7 +3043,7 @@
       "code": "UE001451101",
       "color": "GRAY",
       "title": "Takim",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "28.0",
       "category": "SUIT",
       "categories": [
@@ -3058,7 +3058,7 @@
       "code": "UE001452101",
       "color": "SALMON",
       "title": "Takim",
-      "size": "S, M, L",
+      "size": "S, M, M, L",
       "price": "28.0",
       "category": "SUIT",
       "categories": [
