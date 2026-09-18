@@ -8,7 +8,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00687101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00687101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/AO00687101_BLUE.jpg"
     },
     {
       "id": "AO00690101_BLUE",
@@ -18,7 +23,12 @@
       "size": "44, 46, 48, 50",
       "price": "55.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00690101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00690101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/AO00690101_BLUE.jpg"
     },
     {
       "id": "AO00690101_BROWN",
@@ -28,7 +38,12 @@
       "size": "44, 46, 48, 50",
       "price": "55.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00690101_BROWN.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00690101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/AO00690101_BROWN.jpg"
     },
     {
       "id": "AO00690101_CAGLA",
@@ -38,7 +53,12 @@
       "size": "44, 46, 48, 50",
       "price": "55.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00690101_CAGLA.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00690101_CAGLA.jpg",
+      "thumbnail": "assets/thumbs/AO00690101_CAGLA.jpg"
     },
     {
       "id": "AO00691101_BLACK",
@@ -48,7 +68,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00691101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00691101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/AO00691101_BLACK.jpg"
     },
     {
       "id": "AO00691101_BROWN",
@@ -58,7 +83,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00691101_BROWN.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00691101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/AO00691101_BROWN.jpg"
     },
     {
       "id": "AO00692101_PINK",
@@ -68,7 +98,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00692101_PINK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00692101_PINK.jpg",
+      "thumbnail": "assets/thumbs/AO00692101_PINK.jpg"
     },
     {
       "id": "AO00692101_YELLOW",
@@ -78,7 +113,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00692101_YELLOW.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00692101_YELLOW.jpg",
+      "thumbnail": "assets/thumbs/AO00692101_YELLOW.jpg"
     },
     {
       "id": "AO00698101_BLACK",
@@ -88,7 +128,12 @@
       "size": "44, 46, 48, 50",
       "price": "25.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00698101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00698101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/AO00698101_BLACK.jpg"
     },
     {
       "id": "AO00698101_BROWN",
@@ -98,7 +143,12 @@
       "size": "44, 46, 48, 50",
       "price": "25.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00698101_BROWN.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00698101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/AO00698101_BROWN.jpg"
     },
     {
       "id": "AO00701101_BLACK",
@@ -108,7 +158,12 @@
       "size": "44, 46, 48, 50",
       "price": "17.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00701101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00701101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/AO00701101_BLACK.jpg"
     },
     {
       "id": "AO00701101_PINK",
@@ -118,7 +173,12 @@
       "size": "44, 46, 48, 50",
       "price": "17.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/AO00701101_PINK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/AO00701101_PINK.jpg",
+      "thumbnail": "assets/thumbs/AO00701101_PINK.jpg"
     },
     {
       "id": "ATK00688101_ECRU",
@@ -128,7 +188,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/ATK00688101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/ATK00688101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/ATK00688101_ECRU.jpg"
     },
     {
       "id": "ATK00689101_BLACK",
@@ -138,7 +203,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/ATK00689101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/ATK00689101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/ATK00689101_BLACK.jpg"
     },
     {
       "id": "ATK00689101_BLUE",
@@ -148,7 +218,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/ATK00689101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/ATK00689101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/ATK00689101_BLUE.jpg"
     },
     {
       "id": "ATK00689101_ECRU",
@@ -158,7 +233,12 @@
       "size": "44, 46, 48, 50",
       "price": "35.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/ATK00689101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/ATK00689101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/ATK00689101_ECRU.jpg"
     },
     {
       "id": "B1966102_BLUE",
@@ -168,7 +248,12 @@
       "size": "44, 46, 48, 50",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/B1966102_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/B1966102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1966102_BLUE.jpg"
     },
     {
       "id": "B1968103_BLUE",
@@ -178,7 +263,12 @@
       "size": "44, 46, 48, 50",
       "price": "29.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/B1968103_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/B1968103_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1968103_BLUE.jpg"
     },
     {
       "id": "B1968104_BLUE",
@@ -188,7 +278,12 @@
       "size": "44, 46, 48, 50",
       "price": "29.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/B1968104_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/B1968104_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1968104_BLUE.jpg"
     },
     {
       "id": "B1969101_BLUE",
@@ -198,7 +293,12 @@
       "size": "44, 46, 48, 50",
       "price": "29.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/B1969101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/B1969101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1969101_BLUE.jpg"
     },
     {
       "id": "B9274102_BLACK",
@@ -208,7 +308,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/B9274102_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/B9274102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B9274102_BLACK.jpg"
     },
     {
       "id": "B9277101_BLUE",
@@ -218,7 +323,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "32.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/B9277101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/B9277101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B9277101_BLUE.jpg"
     },
     {
       "id": "B9278101_BLACK",
@@ -228,7 +338,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "29.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/B9278101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/B9278101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B9278101_BLACK.jpg"
     },
     {
       "id": "R3702102_BLACK",
@@ -238,7 +353,12 @@
       "size": "36, 38, 40, 42",
       "price": "28.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/R3702102_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/R3702102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/R3702102_BLACK.jpg"
     },
     {
       "id": "S9270102_BLUE",
@@ -248,7 +368,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9270102_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9270102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S9270102_BLUE.jpg"
     },
     {
       "id": "S9280102_BLACK",
@@ -258,7 +383,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "32.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9280102_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9280102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S9280102_BLACK.jpg"
     },
     {
       "id": "S9301101_BLUE",
@@ -268,7 +398,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9301101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9301101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S9301101_BLUE.jpg"
     },
     {
       "id": "S9302101_BLUE",
@@ -278,7 +413,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9302101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9302101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S9302101_BLUE.jpg"
     },
     {
       "id": "S9305101_BLUE",
@@ -288,7 +428,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9305101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9305101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S9305101_BLUE.jpg"
     },
     {
       "id": "S9401101_BLUE",
@@ -298,7 +443,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9401101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9401101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S9401101_BLUE.jpg"
     },
     {
       "id": "S9406101_BLUE",
@@ -308,7 +458,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9406101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9406101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S9406101_BLUE.jpg"
     },
     {
       "id": "S9407101_BLUE",
@@ -318,7 +473,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9407101_BLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9407101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S9407101_BLUE.jpg"
     },
     {
       "id": "S9410102_BLACK",
@@ -328,7 +488,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "32.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9410102_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9410102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S9410102_BLACK.jpg"
     },
     {
       "id": "S9411101_BLACK",
@@ -338,7 +503,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "29.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9411101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9411101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S9411101_BLACK.jpg"
     },
     {
       "id": "S9412101_BLACK",
@@ -348,7 +518,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9412101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9412101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S9412101_BLACK.jpg"
     },
     {
       "id": "S9413101_BLACK",
@@ -358,7 +533,12 @@
       "size": "31, 32, 33, 34, 36",
       "price": "30.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/S9413101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/S9413101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S9413101_BLACK.jpg"
     },
     {
       "id": "SO00672101_BLACK",
@@ -368,7 +548,12 @@
       "size": "44, 46, 48, 50",
       "price": "49.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00672101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00672101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00672101_BLACK.jpg"
     },
     {
       "id": "SO00673101_BURGUNDY",
@@ -378,7 +563,12 @@
       "size": "44, 46, 48, 50",
       "price": "25.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00673101_BURGUNDY.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00673101_BURGUNDY.jpg",
+      "thumbnail": "assets/thumbs/SO00673101_BURGUNDY.jpg"
     },
     {
       "id": "SO00674101_BLACK",
@@ -388,7 +578,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00674101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00674101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00674101_BLACK.jpg"
     },
     {
       "id": "SO00674101_BROWN",
@@ -398,7 +593,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00674101_BROWN.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00674101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/SO00674101_BROWN.jpg"
     },
     {
       "id": "SO00674101_BURGUNDY",
@@ -408,7 +608,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00674101_BURGUNDY.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00674101_BURGUNDY.jpg",
+      "thumbnail": "assets/thumbs/SO00674101_BURGUNDY.jpg"
     },
     {
       "id": "SO00674101_ECRU",
@@ -418,7 +623,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00674101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00674101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/SO00674101_ECRU.jpg"
     },
     {
       "id": "SO00674101_GRAY",
@@ -428,7 +638,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00674101_GRAY.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00674101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/SO00674101_GRAY.jpg"
     },
     {
       "id": "SO00674101_NAVYBLUE",
@@ -438,7 +653,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00674101_NAVYBLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00674101_NAVYBLUE.jpg",
+      "thumbnail": "assets/thumbs/SO00674101_NAVYBLUE.jpg"
     },
     {
       "id": "SO00675101_BLACK",
@@ -448,7 +668,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00675101_BLACK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00675101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00675101_BLACK.jpg"
     },
     {
       "id": "SO00675101_BURGUNDY",
@@ -458,7 +683,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00675101_BURGUNDY.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00675101_BURGUNDY.jpg",
+      "thumbnail": "assets/thumbs/SO00675101_BURGUNDY.jpg"
     },
     {
       "id": "SO00675101_GRAY",
@@ -468,7 +698,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00675101_GRAY.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00675101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/SO00675101_GRAY.jpg"
     },
     {
       "id": "SO00675101_NAVYBLUE",
@@ -478,7 +713,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00675101_NAVYBLUE.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00675101_NAVYBLUE.jpg",
+      "thumbnail": "assets/thumbs/SO00675101_NAVYBLUE.jpg"
     },
     {
       "id": "SO00678101_ECRU",
@@ -488,7 +728,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00678101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00678101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/SO00678101_ECRU.jpg"
     },
     {
       "id": "SO00678101_PINK",
@@ -498,7 +743,12 @@
       "size": "44, 46, 48, 50",
       "price": "36.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00678101_PINK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00678101_PINK.jpg",
+      "thumbnail": "assets/thumbs/SO00678101_PINK.jpg"
     },
     {
       "id": "SO00684101_ECRU",
@@ -508,7 +758,12 @@
       "size": "42, 44, 46",
       "price": "23.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00684101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00684101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/SO00684101_ECRU.jpg"
     },
     {
       "id": "SO00685101_ECRU",
@@ -518,7 +773,12 @@
       "size": "42, 44, 46",
       "price": "17.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/SO00685101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/SO00685101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/SO00685101_ECRU.jpg"
     },
     {
       "id": "STK00677101_ECRU",
@@ -528,7 +788,12 @@
       "size": "44, 46, 48, 50",
       "price": "51.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/STK00677101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/STK00677101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/STK00677101_ECRU.jpg"
     },
     {
       "id": "STK00677101_PINK",
@@ -538,7 +803,12 @@
       "size": "44, 46, 48, 50",
       "price": "51.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/STK00677101_PINK.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/STK00677101_PINK.jpg",
+      "thumbnail": "assets/thumbs/STK00677101_PINK.jpg"
     },
     {
       "id": "STK00679101_ECRU",
@@ -548,17 +818,402 @@
       "size": "44, 46, 48, 50",
       "price": "51.0",
       "category": "BIG_SIZE",
-      "image": "assets/products/STK00679101_ECRU.jpg"
+      "categories": [
+        "BIG_SIZE"
+      ],
+      "type": "BIG SIZE",
+      "image": "assets/products/STK00679101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/STK00679101_ECRU.jpg"
+    },
+    {
+      "id": "L7731101_BLUE",
+      "code": "L7731101",
+      "color": "BLUE",
+      "title": "Elbi̇se",
+      "size": "S, M, L",
+      "price": "23.0",
+      "category": "DRESS",
+      "categories": [
+        "DRESS"
+      ],
+      "type": "ELBİSE",
+      "image": "assets/products/L7731101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/L7731101_BLUE.jpg"
+    },
+    {
+      "id": "L7731102_BLUE",
+      "code": "L7731102",
+      "color": "BLUE",
+      "title": "Elbi̇se",
+      "size": "S, M, L",
+      "price": "23.0",
+      "category": "DRESS",
+      "categories": [
+        "DRESS"
+      ],
+      "type": "ELBİSE",
+      "image": "assets/products/L7731102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/L7731102_BLUE.jpg"
+    },
+    {
+      "id": "L7733101_BLUE",
+      "code": "L7733101",
+      "color": "BLUE",
+      "title": "Elbi̇se",
+      "size": "S, M, L, XL",
+      "price": "23.0",
+      "category": "DRESS",
+      "categories": [
+        "DRESS"
+      ],
+      "type": "ELBİSE",
+      "image": "assets/products/L7733101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/L7733101_BLUE.jpg"
+    },
+    {
+      "id": "L7733102_GRAY",
+      "code": "L7733102",
+      "color": "GRAY",
+      "title": "Elbi̇se",
+      "size": "S, M, L, XL",
+      "price": "23.0",
+      "category": "DRESS",
+      "categories": [
+        "DRESS"
+      ],
+      "type": "ELBİSE",
+      "image": "assets/products/L7733102_GRAY.jpg",
+      "thumbnail": "assets/thumbs/L7733102_GRAY.jpg"
+    },
+    {
+      "id": "U001444102_BEIGE",
+      "code": "U001444102",
+      "color": "BEIGE",
+      "title": "Elbi̇se Dress",
+      "size": "S, M, L, XL",
+      "price": "49.0",
+      "category": "DRESS",
+      "categories": [
+        "DRESS"
+      ],
+      "type": "ELBİSE DRESS",
+      "image": "assets/products/U001444102_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/U001444102_BEIGE.jpg"
+    },
+    {
+      "id": "U001445102_BEIGE",
+      "code": "U001445102",
+      "color": "BEIGE",
+      "title": "Elbi̇se Dress",
+      "size": "S, M, L, XL",
+      "price": "45.0",
+      "category": "DRESS",
+      "categories": [
+        "DRESS"
+      ],
+      "type": "ELBİSE DRESS",
+      "image": "assets/products/U001445102_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/U001445102_BEIGE.jpg"
+    },
+    {
+      "id": "B5365102_GRAY",
+      "code": "B5365102",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "34.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5365102_GRAY.jpg",
+      "thumbnail": "assets/thumbs/B5365102_GRAY.jpg"
+    },
+    {
+      "id": "B5436102_BLACK",
+      "code": "B5436102",
+      "color": "BLACK",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "39.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5436102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B5436102_BLACK.jpg"
+    },
+    {
+      "id": "B5437101_BLACK",
+      "code": "B5437101",
+      "color": "BLACK",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "36.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5437101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B5437101_BLACK.jpg"
+    },
+    {
+      "id": "B5458101_BLUE",
+      "code": "B5458101",
+      "color": "BLUE",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "34.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5458101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B5458101_BLUE.jpg"
+    },
+    {
+      "id": "B5458102_BLUE",
+      "code": "B5458102",
+      "color": "BLUE",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "39.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5458102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B5458102_BLUE.jpg"
+    },
+    {
+      "id": "B5473101_GRAY",
+      "code": "B5473101",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "24.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5473101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/B5473101_GRAY.jpg"
+    },
+    {
+      "id": "B5473102_BLACK",
+      "code": "B5473102",
+      "color": "BLACK",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5473102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B5473102_BLACK.jpg"
+    },
+    {
+      "id": "B5481103_JACARBLACK",
+      "code": "B5481103",
+      "color": "JACARBLACK",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "39.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5481103_JACARBLACK.jpg",
+      "thumbnail": "assets/thumbs/B5481103_JACARBLACK.jpg"
+    },
+    {
+      "id": "B5481104_JAKARBLUE",
+      "code": "B5481104",
+      "color": "JAKARBLUE",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "39.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5481104_JAKARBLUE.jpg",
+      "thumbnail": "assets/thumbs/B5481104_JAKARBLUE.jpg"
+    },
+    {
+      "id": "B5483101_BLACK",
+      "code": "B5483101",
+      "color": "BLACK",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5483101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B5483101_BLACK.jpg"
+    },
+    {
+      "id": "B5483102_BLUE",
+      "code": "B5483102",
+      "color": "BLUE",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "32.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/B5483102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B5483102_BLUE.jpg"
+    },
+    {
+      "id": "D5374101_GRAY",
+      "code": "D5374101",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "24.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/D5374101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/D5374101_GRAY.jpg"
+    },
+    {
+      "id": "D5448101_GRAY",
+      "code": "D5448101",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/D5448101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/D5448101_GRAY.jpg"
+    },
+    {
+      "id": "D5448102_GRAY",
+      "code": "D5448102",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "34.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/D5448102_GRAY.jpg",
+      "thumbnail": "assets/thumbs/D5448102_GRAY.jpg"
+    },
+    {
+      "id": "S5664101_BLACK",
+      "code": "S5664101",
+      "color": "BLACK",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "49.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/S5664101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S5664101_BLACK.jpg"
+    },
+    {
+      "id": "U5306105_BROWN",
+      "code": "U5306105",
+      "color": "BROWN",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/U5306105_BROWN.jpg",
+      "thumbnail": "assets/thumbs/U5306105_BROWN.jpg"
+    },
+    {
+      "id": "U5336102_GRAY",
+      "code": "U5336102",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/U5336102_GRAY.jpg",
+      "thumbnail": "assets/thumbs/U5336102_GRAY.jpg"
+    },
+    {
+      "id": "U5339103_GRAY",
+      "code": "U5339103",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L, XL",
+      "price": "34.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/U5339103_GRAY.jpg",
+      "thumbnail": "assets/thumbs/U5339103_GRAY.jpg"
+    },
+    {
+      "id": "U5352101_GRAY",
+      "code": "U5352101",
+      "color": "GRAY",
+      "title": "Ceket",
+      "size": "S, M, L",
+      "price": "39.0",
+      "category": "JACKET",
+      "categories": [
+        "JACKET"
+      ],
+      "type": "CEKET",
+      "image": "assets/products/U5352101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/U5352101_GRAY.jpg"
     },
     {
       "id": "A741101_GRAY",
       "code": "A741101",
       "color": "GRAY",
-      "title": "The Skinny Pant",
+      "title": "Pantolon",
       "size": "25-26-27-28-29",
       "price": "32.0",
       "category": "PANTS",
-      "image": "assets/products/A741101_GRAY.jpg"
+      "image": "assets/products/A741101_GRAY.jpg",
+      "type": "PANTOLON",
+      "categories": [
+        "PANTS"
+      ],
+      "thumbnail": "assets/thumbs/A741101_GRAY.jpg"
     },
     {
       "id": "B752102_GRAY",
@@ -568,7 +1223,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/B752102_GRAY.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B752102_GRAY.jpg",
+      "thumbnail": "assets/thumbs/B752102_GRAY.jpg"
     },
     {
       "id": "B802101_BLUE",
@@ -578,7 +1238,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "28.0",
       "category": "PANTS",
-      "image": "assets/products/B802101_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B802101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B802101_BLUE.jpg"
     },
     {
       "id": "B833101_BLACK",
@@ -588,7 +1253,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/B833101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B833101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B833101_BLACK.jpg"
     },
     {
       "id": "B841102_BLUE",
@@ -598,7 +1268,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/B841102_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B841102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B841102_BLUE.jpg"
     },
     {
       "id": "B841103_BLUE",
@@ -608,7 +1283,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/B841103_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B841103_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B841103_BLUE.jpg"
     },
     {
       "id": "B850101_BLUE",
@@ -618,7 +1298,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/B850101_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B850101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B850101_BLUE.jpg"
     },
     {
       "id": "B857101_BLACK",
@@ -628,7 +1313,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "32.0",
       "category": "PANTS",
-      "image": "assets/products/B857101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B857101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B857101_BLACK.jpg"
     },
     {
       "id": "B895104_BLACK",
@@ -638,7 +1328,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/B895104_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B895104_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B895104_BLACK.jpg"
     },
     {
       "id": "B902101_BLUE",
@@ -648,7 +1343,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/B902101_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B902101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B902101_BLUE.jpg"
     },
     {
       "id": "B910103_BLACK",
@@ -658,7 +1358,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/B910103_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B910103_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B910103_BLACK.jpg"
     },
     {
       "id": "B914102_BLACK",
@@ -668,7 +1373,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "28.0",
       "category": "PANTS",
-      "image": "assets/products/B914102_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B914102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B914102_BLACK.jpg"
     },
     {
       "id": "B924101_CAMOUF",
@@ -678,7 +1388,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "28.0",
       "category": "PANTS",
-      "image": "assets/products/B924101_CAMOUF.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B924101_CAMOUF.jpg",
+      "thumbnail": "assets/thumbs/B924101_CAMOUF.jpg"
     },
     {
       "id": "B924102_BLUE",
@@ -688,7 +1403,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "28.0",
       "category": "PANTS",
-      "image": "assets/products/B924102_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B924102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B924102_BLUE.jpg"
     },
     {
       "id": "B936102_BLUE",
@@ -698,7 +1418,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/B936102_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/B936102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B936102_BLUE.jpg"
     },
     {
       "id": "D832101G_GRAY",
@@ -708,7 +1433,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "19.0",
       "category": "PANTS",
-      "image": "assets/products/D832101G_GRAY.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/D832101G_GRAY.jpg",
+      "thumbnail": "assets/thumbs/D832101G_GRAY.jpg"
     },
     {
       "id": "J524103_GRAY",
@@ -718,7 +1448,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "18.0",
       "category": "PANTS",
-      "image": "assets/products/J524103_GRAY.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/J524103_GRAY.jpg",
+      "thumbnail": "assets/thumbs/J524103_GRAY.jpg"
     },
     {
       "id": "R521103_BLUE",
@@ -728,7 +1463,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "19.0",
       "category": "PANTS",
-      "image": "assets/products/R521103_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/R521103_BLUE.jpg",
+      "thumbnail": "assets/thumbs/R521103_BLUE.jpg"
     },
     {
       "id": "R522103_BLUE",
@@ -738,7 +1478,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "18.0",
       "category": "PANTS",
-      "image": "assets/products/R522103_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/R522103_BLUE.jpg",
+      "thumbnail": "assets/thumbs/R522103_BLUE.jpg"
     },
     {
       "id": "R542102_BLACK",
@@ -748,7 +1493,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "19.0",
       "category": "PANTS",
-      "image": "assets/products/R542102_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/R542102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/R542102_BLACK.jpg"
     },
     {
       "id": "R550102_BLUE",
@@ -758,7 +1508,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "18.0",
       "category": "PANTS",
-      "image": "assets/products/R550102_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/R550102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/R550102_BLUE.jpg"
     },
     {
       "id": "R550104_BLUE",
@@ -768,7 +1523,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "19.0",
       "category": "PANTS",
-      "image": "assets/products/R550104_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/R550104_BLUE.jpg",
+      "thumbnail": "assets/thumbs/R550104_BLUE.jpg"
     },
     {
       "id": "R556102_BLUE",
@@ -778,7 +1538,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/R556102_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/R556102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/R556102_BLUE.jpg"
     },
     {
       "id": "S177101_BLACK",
@@ -788,7 +1553,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "28.0",
       "category": "PANTS",
-      "image": "assets/products/S177101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S177101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S177101_BLACK.jpg"
     },
     {
       "id": "S224101_BLUE",
@@ -798,7 +1568,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/S224101_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S224101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S224101_BLUE.jpg"
     },
     {
       "id": "S224102_BLUE",
@@ -808,7 +1583,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/S224102_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S224102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S224102_BLUE.jpg"
     },
     {
       "id": "S250101_BLACK",
@@ -818,7 +1598,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/S250101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S250101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S250101_BLACK.jpg"
     },
     {
       "id": "S251101_BLACK",
@@ -828,7 +1613,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/S251101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S251101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S251101_BLACK.jpg"
     },
     {
       "id": "S784102_BLUE",
@@ -838,7 +1628,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "30.0",
       "category": "PANTS",
-      "image": "assets/products/S784102_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S784102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S784102_BLUE.jpg"
     },
     {
       "id": "S849101_BLACK",
@@ -848,7 +1643,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "32.0",
       "category": "PANTS",
-      "image": "assets/products/S849101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S849101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S849101_BLACK.jpg"
     },
     {
       "id": "S857101_BLACK",
@@ -858,7 +1658,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "32.0",
       "category": "PANTS",
-      "image": "assets/products/S857101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S857101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S857101_BLACK.jpg"
     },
     {
       "id": "S857102_BLACK",
@@ -868,7 +1673,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "32.0",
       "category": "PANTS",
-      "image": "assets/products/S857102_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S857102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S857102_BLACK.jpg"
     },
     {
       "id": "S860101_BLACK",
@@ -878,7 +1688,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "32.0",
       "category": "PANTS",
-      "image": "assets/products/S860101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S860101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S860101_BLACK.jpg"
     },
     {
       "id": "S878101_BLUE",
@@ -888,7 +1703,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "29.0",
       "category": "PANTS",
-      "image": "assets/products/S878101_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S878101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S878101_BLUE.jpg"
     },
     {
       "id": "S878103_BLUE",
@@ -898,7 +1718,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "28.0",
       "category": "PANTS",
-      "image": "assets/products/S878103_BLUE.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S878103_BLUE.jpg",
+      "thumbnail": "assets/thumbs/S878103_BLUE.jpg"
     },
     {
       "id": "S884102_BLACK",
@@ -908,7 +1733,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "32.0",
       "category": "PANTS",
-      "image": "assets/products/S884102_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S884102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S884102_BLACK.jpg"
     },
     {
       "id": "S915101_BLACK",
@@ -918,7 +1748,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "31.0",
       "category": "PANTS",
-      "image": "assets/products/S915101_BLACK.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/S915101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S915101_BLACK.jpg"
     },
     {
       "id": "U642102_GREEN",
@@ -928,7 +1763,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "27.0",
       "category": "PANTS",
-      "image": "assets/products/U642102_GREEN.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/U642102_GREEN.jpg",
+      "thumbnail": "assets/thumbs/U642102_GREEN.jpg"
     },
     {
       "id": "U652102_GREEN",
@@ -938,7 +1778,12 @@
       "size": "26, 27, 28, 29, 30",
       "price": "27.0",
       "category": "PANTS",
-      "image": "assets/products/U652102_GREEN.jpg"
+      "categories": [
+        "PANTS"
+      ],
+      "type": "PANTOLON",
+      "image": "assets/products/U652102_GREEN.jpg",
+      "thumbnail": "assets/thumbs/U652102_GREEN.jpg"
     },
     {
       "id": "AO00310101_NAVI",
@@ -947,8 +1792,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L",
       "price": "16.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00310101_NAVI.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/AO00310101_NAVI.jpg",
+      "thumbnail": "assets/thumbs/AO00310101_NAVI.jpg"
     },
     {
       "id": "AO00314101_YELLOW",
@@ -957,8 +1807,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00314101_YELLOW.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/AO00314101_YELLOW.jpg",
+      "thumbnail": "assets/thumbs/AO00314101_YELLOW.jpg"
     },
     {
       "id": "AO00316101_BLACK",
@@ -967,28 +1822,45 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00316101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/AO00316101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/AO00316101_BLACK.jpg"
     },
     {
       "id": "AO00317101_BLACK",
       "code": "AO00317101",
       "color": "BLACK",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "53.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00317101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/AO00317101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/AO00317101_BLACK.jpg"
     },
     {
       "id": "AO00317101_BROWN",
       "code": "AO00317101",
       "color": "BROWN",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "53.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00317101_BROWN.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/AO00317101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/AO00317101_BROWN.jpg"
     },
     {
       "id": "AO00318101_BLACK",
@@ -997,48 +1869,77 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00318101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/AO00318101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/AO00318101_BLACK.jpg"
     },
     {
       "id": "AO00365101_BLACK",
       "code": "AO00365101",
       "color": "BLACK",
-      "title": "Etek",
+      "title": "Triko Etek",
       "size": "S, M, L, XL",
       "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00365101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SKIRT"
+      ],
+      "type": "TRIKO ETEK",
+      "image": "assets/products/AO00365101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/AO00365101_BLACK.jpg"
     },
     {
       "id": "AO00365101_BLUE",
       "code": "AO00365101",
       "color": "BLUE",
-      "title": "Etek",
+      "title": "Triko Etek",
       "size": "S, M, L, XL",
       "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00365101_BLUE.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SKIRT"
+      ],
+      "type": "TRIKO ETEK",
+      "image": "assets/products/AO00365101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/AO00365101_BLUE.jpg"
     },
     {
       "id": "AO00365101_BROWN",
       "code": "AO00365101",
       "color": "BROWN",
-      "title": "Etek",
+      "title": "Triko Etek",
       "size": "S, M, L, XL",
       "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00365101_BROWN.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SKIRT"
+      ],
+      "type": "TRIKO ETEK",
+      "image": "assets/products/AO00365101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/AO00365101_BROWN.jpg"
     },
     {
       "id": "AO00365101_SIYAH",
       "code": "AO00365101",
       "color": "SIYAH",
-      "title": "Etek",
+      "title": "Triko Etek",
       "size": "S, M, L, XL",
       "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/AO00365101_SIYAH.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SKIRT"
+      ],
+      "type": "TRIKO ETEK",
+      "image": "assets/products/AO00365101_SIYAH.jpg",
+      "thumbnail": "assets/thumbs/AO00365101_SIYAH.jpg"
     },
     {
       "id": "ATK00315101_YELLOW",
@@ -1047,468 +1948,74 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/ATK00315101_YELLOW.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/ATK00315101_YELLOW.jpg",
+      "thumbnail": "assets/thumbs/ATK00315101_YELLOW.jpg"
     },
     {
       "id": "B00517101_BEIGE",
       "code": "B00517101",
       "color": "BEIGE",
-      "title": "The Tencel Palazzo",
+      "title": "Tri̇ko",
       "size": "26-27-28-29-30",
       "price": "22.0",
-      "category": "OTHER",
-      "image": "assets/products/B00517101_BEIGE.jpg"
+      "category": "KNITWEAR",
+      "image": "assets/products/B00517101_BEIGE.jpg",
+      "type": "TRİKO",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "thumbnail": "assets/thumbs/B00517101_BEIGE.jpg"
     },
     {
       "id": "B00517102_CAMEL",
       "code": "B00517102",
       "color": "CAMEL",
-      "title": "Sweat",
+      "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "21.0",
-      "category": "OTHER",
-      "image": "assets/products/B00517102_CAMEL.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/B00517102_CAMEL.jpg",
+      "thumbnail": "assets/thumbs/B00517102_CAMEL.jpg"
     },
     {
       "id": "B00518108_BEIGE",
       "code": "B00518108",
       "color": "BEIGE",
-      "title": "Sweat",
+      "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "21.0",
-      "category": "OTHER",
-      "image": "assets/products/B00518108_BEIGE.jpg"
-    },
-    {
-      "id": "B1653103_BLUE",
-      "code": "B1653103",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/B1653103_BLUE.jpg"
-    },
-    {
-      "id": "B1653104_BLUE",
-      "code": "B1653104",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/B1653104_BLUE.jpg"
-    },
-    {
-      "id": "B1653105_BLUE",
-      "code": "B1653105",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/B1653105_BLUE.jpg"
-    },
-    {
-      "id": "B1655101_BLUE",
-      "code": "B1655101",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/B1655101_BLUE.jpg"
-    },
-    {
-      "id": "B1693101_BLUE",
-      "code": "B1693101",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/B1693101_BLUE.jpg"
-    },
-    {
-      "id": "B1693102_BLUE",
-      "code": "B1693102",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/B1693102_BLUE.jpg"
-    },
-    {
-      "id": "B1693103_BLUE",
-      "code": "B1693103",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/B1693103_BLUE.jpg"
-    },
-    {
-      "id": "B1699101_BLUE",
-      "code": "B1699101",
-      "color": "BLUE",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/B1699101_BLUE.jpg"
-    },
-    {
-      "id": "B1718102_CAMOUF",
-      "code": "B1718102",
-      "color": "CAMOUF",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/B1718102_CAMOUF.jpg"
-    },
-    {
-      "id": "B3506101_BLACK",
-      "code": "B3506101",
-      "color": "BLACK",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/B3506101_BLACK.jpg"
-    },
-    {
-      "id": "B3529101_BLUE",
-      "code": "B3529101",
-      "color": "BLUE",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/B3529101_BLUE.jpg"
-    },
-    {
-      "id": "B3531101_BLUE",
-      "code": "B3531101",
-      "color": "BLUE",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/B3531101_BLUE.jpg"
-    },
-    {
-      "id": "B3755101_BLACK",
-      "code": "B3755101",
-      "color": "BLACK",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/B3755101_BLACK.jpg"
-    },
-    {
-      "id": "B3755102_BLUE",
-      "code": "B3755102",
-      "color": "BLUE",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "27.0",
-      "category": "OTHER",
-      "image": "assets/products/B3755102_BLUE.jpg"
-    },
-    {
-      "id": "B3768101_GRAY",
-      "code": "B3768101",
-      "color": "GRAY",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/B3768101_GRAY.jpg"
-    },
-    {
-      "id": "B3768102_D.BROWN",
-      "code": "B3768102",
-      "color": "D.BROWN",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/B3768102_D.BROWN.jpg"
-    },
-    {
-      "id": "B3769102_D.BROWN",
-      "code": "B3769102",
-      "color": "D.BROWN",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/B3769102_D.BROWN.jpg"
-    },
-    {
-      "id": "B3800101_BLACK",
-      "code": "B3800101",
-      "color": "BLACK",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/B3800101_BLACK.jpg"
-    },
-    {
-      "id": "B5365102_GRAY",
-      "code": "B5365102",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/B5365102_GRAY.jpg"
-    },
-    {
-      "id": "B5436102_BLACK",
-      "code": "B5436102",
-      "color": "BLACK",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "39.0",
-      "category": "OTHER",
-      "image": "assets/products/B5436102_BLACK.jpg"
-    },
-    {
-      "id": "B5437101_BLACK",
-      "code": "B5437101",
-      "color": "BLACK",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "36.0",
-      "category": "OTHER",
-      "image": "assets/products/B5437101_BLACK.jpg"
-    },
-    {
-      "id": "B5458101_BLUE",
-      "code": "B5458101",
-      "color": "BLUE",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/B5458101_BLUE.jpg"
-    },
-    {
-      "id": "B5458102_BLUE",
-      "code": "B5458102",
-      "color": "BLUE",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "39.0",
-      "category": "OTHER",
-      "image": "assets/products/B5458102_BLUE.jpg"
-    },
-    {
-      "id": "B5473101_GRAY",
-      "code": "B5473101",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/B5473101_GRAY.jpg"
-    },
-    {
-      "id": "B5473102_BLACK",
-      "code": "B5473102",
-      "color": "BLACK",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/B5473102_BLACK.jpg"
-    },
-    {
-      "id": "B5481103_JACARBLACK",
-      "code": "B5481103",
-      "color": "JACARBLACK",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "39.0",
-      "category": "OTHER",
-      "image": "assets/products/B5481103_JACARBLACK.jpg"
-    },
-    {
-      "id": "B5481104_JAKARBLUE",
-      "code": "B5481104",
-      "color": "JAKARBLUE",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "39.0",
-      "category": "OTHER",
-      "image": "assets/products/B5481104_JAKARBLUE.jpg"
-    },
-    {
-      "id": "B5483101_BLACK",
-      "code": "B5483101",
-      "color": "BLACK",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/B5483101_BLACK.jpg"
-    },
-    {
-      "id": "B5483102_BLUE",
-      "code": "B5483102",
-      "color": "BLUE",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "32.0",
-      "category": "OTHER",
-      "image": "assets/products/B5483102_BLUE.jpg"
-    },
-    {
-      "id": "B5507101_BLLACK",
-      "code": "B5507101",
-      "color": "BLLACK",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "78.0",
-      "category": "OTHER",
-      "image": "assets/products/B5507101_BLLACK.jpg"
-    },
-    {
-      "id": "B5507102_ECRU",
-      "code": "B5507102",
-      "color": "ECRU",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "78.0",
-      "category": "OTHER",
-      "image": "assets/products/B5507102_ECRU.jpg"
-    },
-    {
-      "id": "B5514101_TONE",
-      "code": "B5514101",
-      "color": "TONE",
-      "title": "Mont",
-      "size": "S, M, L, XL",
-      "price": "95.0",
-      "category": "OTHER",
-      "image": "assets/products/B5514101_TONE.jpg"
-    },
-    {
-      "id": "B5514103_BROWN",
-      "code": "B5514103",
-      "color": "BROWN",
-      "title": "Mont",
-      "size": "S, M, L, XL",
-      "price": "95.0",
-      "category": "OTHER",
-      "image": "assets/products/B5514103_BROWN.jpg"
-    },
-    {
-      "id": "B5516102_BROWN",
-      "code": "B5516102",
-      "color": "BROWN",
-      "title": "Mont",
-      "size": "S, M, L, XL",
-      "price": "98.0",
-      "category": "OTHER",
-      "image": "assets/products/B5516102_BROWN.jpg"
-    },
-    {
-      "id": "B5516103_GRAY",
-      "code": "B5516103",
-      "color": "GRAY",
-      "title": "Mont",
-      "size": "S, M, L, XL",
-      "price": "98.0",
-      "category": "OTHER",
-      "image": "assets/products/B5516103_GRAY.jpg"
-    },
-    {
-      "id": "B5519101_BLACK",
-      "code": "B5519101",
-      "color": "BLACK",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "79.0",
-      "category": "OTHER",
-      "image": "assets/products/B5519101_BLACK.jpg"
-    },
-    {
-      "id": "B5519102_CAMEL",
-      "code": "B5519102",
-      "color": "CAMEL",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "79.0",
-      "category": "OTHER",
-      "image": "assets/products/B5519102_CAMEL.jpg"
-    },
-    {
-      "id": "B5519104_BEIGE",
-      "code": "B5519104",
-      "color": "BEIGE",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "79.0",
-      "category": "OTHER",
-      "image": "assets/products/B5519104_BEIGE.jpg"
-    },
-    {
-      "id": "B5520103_BEIGE",
-      "code": "B5520103",
-      "color": "BEIGE",
-      "title": "Mont",
-      "size": "S, M, L, XL",
-      "price": "78.0",
-      "category": "OTHER",
-      "image": "assets/products/B5520103_BEIGE.jpg"
-    },
-    {
-      "id": "B5570101_CAMEL",
-      "code": "B5570101",
-      "color": "CAMEL",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "79.0",
-      "category": "OTHER",
-      "image": "assets/products/B5570101_CAMEL.jpg"
-    },
-    {
-      "id": "B5572101_CAMEL",
-      "code": "B5572101",
-      "color": "CAMEL",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "125.0",
-      "category": "OTHER",
-      "image": "assets/products/B5572101_CAMEL.jpg"
-    },
-    {
-      "id": "B5573102_GREEN",
-      "code": "B5573102",
-      "color": "GREEN",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "99.0",
-      "category": "OTHER",
-      "image": "assets/products/B5573102_GREEN.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/B00518108_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/B00518108_BEIGE.jpg"
     },
     {
       "id": "BO00527106_CAMEL",
       "code": "BO00527106",
       "color": "CAMEL",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "42.0",
-      "category": "OTHER",
-      "image": "assets/products/BO00527106_CAMEL.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO00527106_CAMEL.jpg",
+      "thumbnail": "assets/thumbs/BO00527106_CAMEL.jpg"
     },
     {
       "id": "BO00528105_PINK",
@@ -1517,108 +2024,125 @@
       "title": "Tri̇ko",
       "size": "36, 38, 40, 42",
       "price": "23.0",
-      "category": "OTHER",
-      "image": "assets/products/BO00528105_PINK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/BO00528105_PINK.jpg",
+      "thumbnail": "assets/thumbs/BO00528105_PINK.jpg"
     },
     {
       "id": "BO7941101_ECRU",
       "code": "BO7941101",
       "color": "ECRU",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "42.0",
-      "category": "OTHER",
-      "image": "assets/products/BO7941101_ECRU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO7941101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/BO7941101_ECRU.jpg"
     },
     {
       "id": "BO7941102_BLACK",
       "code": "BO7941102",
       "color": "BLACK",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "42.0",
-      "category": "OTHER",
-      "image": "assets/products/BO7941102_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO7941102_BLACK.jpg",
+      "thumbnail": "assets/thumbs/BO7941102_BLACK.jpg"
     },
     {
       "id": "BO7942103_STONE",
       "code": "BO7942103",
       "color": "STONE",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "43.0",
-      "category": "OTHER",
-      "image": "assets/products/BO7942103_STONE.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO7942103_STONE.jpg",
+      "thumbnail": "assets/thumbs/BO7942103_STONE.jpg"
     },
     {
       "id": "BO7943105_CAMEL",
       "code": "BO7943105",
       "color": "CAMEL",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L",
       "price": "45.0",
-      "category": "OTHER",
-      "image": "assets/products/BO7943105_CAMEL.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO7943105_CAMEL.jpg",
+      "thumbnail": "assets/thumbs/BO7943105_CAMEL.jpg"
     },
     {
       "id": "BO7943106_ANTRA",
       "code": "BO7943106",
       "color": "ANTRA",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L",
       "price": "45.0",
-      "category": "OTHER",
-      "image": "assets/products/BO7943106_ANTRA.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO7943106_ANTRA.jpg",
+      "thumbnail": "assets/thumbs/BO7943106_ANTRA.jpg"
     },
     {
       "id": "BO7943107_GRAY",
       "code": "BO7943107",
       "color": "GRAY",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L",
       "price": "45.0",
-      "category": "OTHER",
-      "image": "assets/products/BO7943107_GRAY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO7943107_GRAY.jpg",
+      "thumbnail": "assets/thumbs/BO7943107_GRAY.jpg"
     },
     {
       "id": "BO7943108_BLACK",
       "code": "BO7943108",
       "color": "BLACK",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L",
       "price": "45.0",
-      "category": "OTHER",
-      "image": "assets/products/BO7943108_BLACK.jpg"
-    },
-    {
-      "id": "D5374101_GRAY",
-      "code": "D5374101",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/D5374101_GRAY.jpg"
-    },
-    {
-      "id": "D5448101_GRAY",
-      "code": "D5448101",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/D5448101_GRAY.jpg"
-    },
-    {
-      "id": "D5448102_GRAY",
-      "code": "D5448102",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/D5448102_GRAY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/BO7943108_BLACK.jpg",
+      "thumbnail": "assets/thumbs/BO7943108_BLACK.jpg"
     },
     {
       "id": "DO00659101_BEIGE",
@@ -1627,8 +2151,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "35.0",
-      "category": "OTHER",
-      "image": "assets/products/DO00659101_BEIGE.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/DO00659101_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/DO00659101_BEIGE.jpg"
     },
     {
       "id": "DO00659101_GRAY",
@@ -1637,58 +2166,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "35.0",
-      "category": "OTHER",
-      "image": "assets/products/DO00659101_GRAY.jpg"
-    },
-    {
-      "id": "L7731101_BLUE",
-      "code": "L7731101",
-      "color": "BLUE",
-      "title": "Elbi̇se",
-      "size": "S, M, L",
-      "price": "23.0",
-      "category": "OTHER",
-      "image": "assets/products/L7731101_BLUE.jpg"
-    },
-    {
-      "id": "L7731102_BLUE",
-      "code": "L7731102",
-      "color": "BLUE",
-      "title": "Elbi̇se",
-      "size": "S, M, L",
-      "price": "23.0",
-      "category": "OTHER",
-      "image": "assets/products/L7731102_BLUE.jpg"
-    },
-    {
-      "id": "L7733101_BLUE",
-      "code": "L7733101",
-      "color": "BLUE",
-      "title": "Elbi̇se",
-      "size": "S, M, L, XL",
-      "price": "23.0",
-      "category": "OTHER",
-      "image": "assets/products/L7733101_BLUE.jpg"
-    },
-    {
-      "id": "L7733102_GRAY",
-      "code": "L7733102",
-      "color": "GRAY",
-      "title": "Elbi̇se",
-      "size": "S, M, L, XL",
-      "price": "23.0",
-      "category": "OTHER",
-      "image": "assets/products/L7733102_GRAY.jpg"
-    },
-    {
-      "id": "R1509101_BLACK",
-      "code": "R1509101",
-      "color": "BLACK",
-      "title": "Gömlek",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/R1509101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/DO00659101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/DO00659101_GRAY.jpg"
     },
     {
       "id": "RO00446104_GREEN",
@@ -1697,8 +2181,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L",
       "price": "18.0",
-      "category": "OTHER",
-      "image": "assets/products/RO00446104_GREEN.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/RO00446104_GREEN.jpg",
+      "thumbnail": "assets/thumbs/RO00446104_GREEN.jpg"
     },
     {
       "id": "RO00448104_GREEN",
@@ -1707,18 +2196,29 @@
       "title": "Tri̇ko",
       "size": "S, M, L",
       "price": "17.0",
-      "category": "OTHER",
-      "image": "assets/products/RO00448104_GREEN.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/RO00448104_GREEN.jpg",
+      "thumbnail": "assets/thumbs/RO00448104_GREEN.jpg"
     },
     {
       "id": "RO00450103_GRAY",
       "code": "RO00450103",
       "color": "GRAY",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L",
       "price": "21.0",
-      "category": "OTHER",
-      "image": "assets/products/RO00450103_GRAY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/RO00450103_GRAY.jpg",
+      "thumbnail": "assets/thumbs/RO00450103_GRAY.jpg"
     },
     {
       "id": "RO00459105_BEIGE",
@@ -1727,38 +2227,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/RO00459105_BEIGE.jpg"
-    },
-    {
-      "id": "S3589101_BLACK",
-      "code": "S3589101",
-      "color": "BLACK",
-      "title": "Etek",
-      "size": "36, 38, 40, 42",
-      "price": "32.0",
-      "category": "OTHER",
-      "image": "assets/products/S3589101_BLACK.jpg"
-    },
-    {
-      "id": "S5522101_ECRU",
-      "code": "S5522101",
-      "color": "ECRU",
-      "title": "Mont",
-      "size": "36, 38, 40, 42",
-      "price": "79.0",
-      "category": "OTHER",
-      "image": "assets/products/S5522101_ECRU.jpg"
-    },
-    {
-      "id": "S5664101_BLACK",
-      "code": "S5664101",
-      "color": "BLACK",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "49.0",
-      "category": "OTHER",
-      "image": "assets/products/S5664101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/RO00459105_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/RO00459105_BEIGE.jpg"
     },
     {
       "id": "SO00539101_BLACK",
@@ -1767,8 +2242,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "32.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00539101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00539101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00539101_BLACK.jpg"
     },
     {
       "id": "SO00539101_BURGUNDY",
@@ -1777,8 +2257,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "32.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00539101_BURGUNDY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00539101_BURGUNDY.jpg",
+      "thumbnail": "assets/thumbs/SO00539101_BURGUNDY.jpg"
     },
     {
       "id": "SO00539101_GRAY",
@@ -1787,8 +2272,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "32.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00539101_GRAY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00539101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/SO00539101_GRAY.jpg"
     },
     {
       "id": "SO00539101_NAVYBLU",
@@ -1797,8 +2287,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "32.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00539101_NAVYBLU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00539101_NAVYBLU.jpg",
+      "thumbnail": "assets/thumbs/SO00539101_NAVYBLU.jpg"
     },
     {
       "id": "SO00541101_BLACK",
@@ -1807,8 +2302,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00541101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00541101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00541101_BLACK.jpg"
     },
     {
       "id": "SO00541101_GRAY",
@@ -1817,8 +2317,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00541101_GRAY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00541101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/SO00541101_GRAY.jpg"
     },
     {
       "id": "SO00541101_NAVYBLU",
@@ -1827,8 +2332,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00541101_NAVYBLU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00541101_NAVYBLU.jpg",
+      "thumbnail": "assets/thumbs/SO00541101_NAVYBLU.jpg"
     },
     {
       "id": "SO00542101_GRAY",
@@ -1837,8 +2347,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00542101_GRAY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00542101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/SO00542101_GRAY.jpg"
     },
     {
       "id": "SO00546101_BLACK",
@@ -1847,38 +2362,61 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "35.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00546101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00546101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00546101_BLACK.jpg"
     },
     {
       "id": "SO00548101_ECRU",
       "code": "SO00548101",
       "color": "ECRU",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "55.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00548101_ECRU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/SO00548101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/SO00548101_ECRU.jpg"
     },
     {
       "id": "SO00548101_GRAY",
       "code": "SO00548101",
       "color": "GRAY",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "55.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00548101_GRAY.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/SO00548101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/SO00548101_GRAY.jpg"
     },
     {
       "id": "SO00549101_ECRU",
       "code": "SO00549101",
       "color": "ECRU",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L, XL",
       "price": "55.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00549101_ECRU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/SO00549101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/SO00549101_ECRU.jpg"
     },
     {
       "id": "SO00561101_CREAM",
@@ -1887,8 +2425,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00561101_CREAM.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00561101_CREAM.jpg",
+      "thumbnail": "assets/thumbs/SO00561101_CREAM.jpg"
     },
     {
       "id": "SO00563101_BLACK",
@@ -1897,8 +2440,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L",
       "price": "17.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00563101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00563101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00563101_BLACK.jpg"
     },
     {
       "id": "SO00564101_BLACK",
@@ -1907,8 +2455,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L",
       "price": "21.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00564101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00564101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00564101_BLACK.jpg"
     },
     {
       "id": "SO00568101_BEIGE",
@@ -1917,8 +2470,13 @@
       "title": "Tri̇ko",
       "size": "36, 38, 40",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00568101_BEIGE.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00568101_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/SO00568101_BEIGE.jpg"
     },
     {
       "id": "SO00568101_BLACK",
@@ -1927,8 +2485,13 @@
       "title": "Tri̇ko",
       "size": "36, 38, 40",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00568101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00568101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00568101_BLACK.jpg"
     },
     {
       "id": "SO00590101_BLACK",
@@ -1937,8 +2500,13 @@
       "title": "Tri̇ko",
       "size": "42, 44, 46",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00590101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00590101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00590101_BLACK.jpg"
     },
     {
       "id": "SO00590101_BROWN",
@@ -1947,8 +2515,13 @@
       "title": "Tri̇ko",
       "size": "42, 44, 46",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00590101_BROWN.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00590101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/SO00590101_BROWN.jpg"
     },
     {
       "id": "SO00590101_ECRU",
@@ -1957,8 +2530,13 @@
       "title": "Tri̇ko",
       "size": "42, 44, 46",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00590101_ECRU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00590101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/SO00590101_ECRU.jpg"
     },
     {
       "id": "SO00591101_BLACK",
@@ -1967,18 +2545,29 @@
       "title": "Tri̇ko",
       "size": "S, M, L",
       "price": "47.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00591101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00591101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00591101_BLACK.jpg"
     },
     {
       "id": "SO00592101_BROWN",
       "code": "SO00592101",
       "color": "BROWN",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Dress",
       "size": "S, M, L",
       "price": "32.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00592101_BROWN.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "DRESS"
+      ],
+      "type": "TRİKO DRESS",
+      "image": "assets/products/SO00592101_BROWN.jpg",
+      "thumbnail": "assets/thumbs/SO00592101_BROWN.jpg"
     },
     {
       "id": "SO00596101_BEIGE",
@@ -1987,8 +2576,13 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00596101_BEIGE.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00596101_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/SO00596101_BEIGE.jpg"
     },
     {
       "id": "SO00596101_BLACK",
@@ -1997,68 +2591,377 @@
       "title": "Tri̇ko",
       "size": "S, M, L, XL",
       "price": "24.0",
-      "category": "OTHER",
-      "image": "assets/products/SO00596101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/SO00596101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/SO00596101_BLACK.jpg"
     },
     {
       "id": "STK00545101_ECRU",
       "code": "STK00545101",
       "color": "ECRU",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Takim",
       "size": "S, M, L, XL",
       "price": "49.0",
-      "category": "OTHER",
-      "image": "assets/products/STK00545101_ECRU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SUIT"
+      ],
+      "type": "TRİKO TAKIM",
+      "image": "assets/products/STK00545101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/STK00545101_ECRU.jpg"
     },
     {
       "id": "STK00545101_PINK",
       "code": "STK00545101",
       "color": "PINK",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Takim",
       "size": "S, M, L, XL",
       "price": "49.0",
-      "category": "OTHER",
-      "image": "assets/products/STK00545101_PINK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SUIT"
+      ],
+      "type": "TRİKO TAKIM",
+      "image": "assets/products/STK00545101_PINK.jpg",
+      "thumbnail": "assets/thumbs/STK00545101_PINK.jpg"
     },
     {
       "id": "STK00547101_BLACK",
       "code": "STK00547101",
       "color": "BLACK",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Takim",
       "size": "S, M, L, XL",
       "price": "49.0",
-      "category": "OTHER",
-      "image": "assets/products/STK00547101_BLACK.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SUIT"
+      ],
+      "type": "TRİKO TAKIM",
+      "image": "assets/products/STK00547101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/STK00547101_BLACK.jpg"
     },
     {
       "id": "STK00547101_ECRU",
       "code": "STK00547101",
       "color": "ECRU",
-      "title": "Tri̇ko",
+      "title": "Tri̇ko Takim",
       "size": "S, M, L, XL",
       "price": "49.0",
-      "category": "OTHER",
-      "image": "assets/products/STK00547101_ECRU.jpg"
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR",
+        "SUIT"
+      ],
+      "type": "TRİKO TAKIM",
+      "image": "assets/products/STK00547101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/STK00547101_ECRU.jpg"
     },
     {
-      "id": "U001444102_BEIGE",
-      "code": "U001444102",
-      "color": "BEIGE",
-      "title": "Elbi̇se",
+      "id": "B1653103_BLUE",
+      "code": "B1653103",
+      "color": "BLUE",
+      "title": "Gömlek",
       "size": "S, M, L, XL",
-      "price": "49.0",
-      "category": "OTHER",
-      "image": "assets/products/U001444102_BEIGE.jpg"
+      "price": "29.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1653103_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1653103_BLUE.jpg"
     },
     {
-      "id": "U001445102_BEIGE",
-      "code": "U001445102",
-      "color": "BEIGE",
-      "title": "Elbi̇se",
+      "id": "B1653104_BLUE",
+      "code": "B1653104",
+      "color": "BLUE",
+      "title": "Gömlek",
       "size": "S, M, L, XL",
-      "price": "45.0",
-      "category": "OTHER",
-      "image": "assets/products/U001445102_BEIGE.jpg"
+      "price": "28.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1653104_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1653104_BLUE.jpg"
+    },
+    {
+      "id": "B1653105_BLUE",
+      "code": "B1653105",
+      "color": "BLUE",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "28.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1653105_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1653105_BLUE.jpg"
+    },
+    {
+      "id": "B1655101_BLUE",
+      "code": "B1655101",
+      "color": "BLUE",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1655101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1655101_BLUE.jpg"
+    },
+    {
+      "id": "B1693101_BLUE",
+      "code": "B1693101",
+      "color": "BLUE",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1693101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1693101_BLUE.jpg"
+    },
+    {
+      "id": "B1693102_BLUE",
+      "code": "B1693102",
+      "color": "BLUE",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "28.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1693102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1693102_BLUE.jpg"
+    },
+    {
+      "id": "B1693103_BLUE",
+      "code": "B1693103",
+      "color": "BLUE",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "28.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1693103_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1693103_BLUE.jpg"
+    },
+    {
+      "id": "B1699101_BLUE",
+      "code": "B1699101",
+      "color": "BLUE",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "19.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1699101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B1699101_BLUE.jpg"
+    },
+    {
+      "id": "B1718102_CAMOUF",
+      "code": "B1718102",
+      "color": "CAMOUF",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "29.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/B1718102_CAMOUF.jpg",
+      "thumbnail": "assets/thumbs/B1718102_CAMOUF.jpg"
+    },
+    {
+      "id": "R1509101_BLACK",
+      "code": "R1509101",
+      "color": "BLACK",
+      "title": "Gömlek",
+      "size": "S, M, L, XL",
+      "price": "34.0",
+      "category": "SHIRT",
+      "categories": [
+        "SHIRT"
+      ],
+      "type": "GÖMLEK",
+      "image": "assets/products/R1509101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/R1509101_BLACK.jpg"
+    },
+    {
+      "id": "B3506101_BLACK",
+      "code": "B3506101",
+      "color": "BLACK",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "24.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3506101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B3506101_BLACK.jpg"
+    },
+    {
+      "id": "B3529101_BLUE",
+      "code": "B3529101",
+      "color": "BLUE",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "24.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3529101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B3529101_BLUE.jpg"
+    },
+    {
+      "id": "B3531101_BLUE",
+      "code": "B3531101",
+      "color": "BLUE",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "29.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3531101_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B3531101_BLUE.jpg"
+    },
+    {
+      "id": "B3755101_BLACK",
+      "code": "B3755101",
+      "color": "BLACK",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "24.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3755101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B3755101_BLACK.jpg"
+    },
+    {
+      "id": "B3755102_BLUE",
+      "code": "B3755102",
+      "color": "BLUE",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "27.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3755102_BLUE.jpg",
+      "thumbnail": "assets/thumbs/B3755102_BLUE.jpg"
+    },
+    {
+      "id": "B3768101_GRAY",
+      "code": "B3768101",
+      "color": "GRAY",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "19.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3768101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/B3768101_GRAY.jpg"
+    },
+    {
+      "id": "B3768102_D.BROWN",
+      "code": "B3768102",
+      "color": "D.BROWN",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "19.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3768102_D.BROWN.jpg",
+      "thumbnail": "assets/thumbs/B3768102_D.BROWN.jpg"
+    },
+    {
+      "id": "B3769102_D.BROWN",
+      "code": "B3769102",
+      "color": "D.BROWN",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "19.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3769102_D.BROWN.jpg",
+      "thumbnail": "assets/thumbs/B3769102_D.BROWN.jpg"
+    },
+    {
+      "id": "B3800101_BLACK",
+      "code": "B3800101",
+      "color": "BLACK",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "28.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/B3800101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B3800101_BLACK.jpg"
+    },
+    {
+      "id": "S3589101_BLACK",
+      "code": "S3589101",
+      "color": "BLACK",
+      "title": "Etek",
+      "size": "36, 38, 40, 42",
+      "price": "32.0",
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/S3589101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/S3589101_BLACK.jpg"
     },
     {
       "id": "U3769104_BLACK",
@@ -2067,8 +2970,13 @@
       "title": "Etek",
       "size": "36, 38, 40, 42",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/U3769104_BLACK.jpg"
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/U3769104_BLACK.jpg",
+      "thumbnail": "assets/thumbs/U3769104_BLACK.jpg"
     },
     {
       "id": "U3769104_BROWN",
@@ -2077,68 +2985,43 @@
       "title": "Etek",
       "size": "36, 38, 40, 42",
       "price": "19.0",
-      "category": "OTHER",
-      "image": "assets/products/U3769104_BROWN.jpg"
-    },
-    {
-      "id": "U5306105_BROWN",
-      "code": "U5306105",
-      "color": "BROWN",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/U5306105_BROWN.jpg"
-    },
-    {
-      "id": "U5336102_GRAY",
-      "code": "U5336102",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "29.0",
-      "category": "OTHER",
-      "image": "assets/products/U5336102_GRAY.jpg"
-    },
-    {
-      "id": "U5339103_GRAY",
-      "code": "U5339103",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "OTHER",
-      "image": "assets/products/U5339103_GRAY.jpg"
-    },
-    {
-      "id": "U5352101_GRAY",
-      "code": "U5352101",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L",
-      "price": "39.0",
-      "category": "OTHER",
-      "image": "assets/products/U5352101_GRAY.jpg"
+      "category": "SKIRT",
+      "categories": [
+        "SKIRT"
+      ],
+      "type": "ETEK",
+      "image": "assets/products/U3769104_BROWN.jpg",
+      "thumbnail": "assets/thumbs/U3769104_BROWN.jpg"
     },
     {
       "id": "UE001440102_LEOPARD",
       "code": "UE001440102",
       "color": "LEOPARD",
-      "title": "Eşofman",
+      "title": "Takim",
       "size": "S, M, L",
       "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/UE001440102_LEOPARD.jpg"
+      "category": "SUIT",
+      "categories": [
+        "SUIT"
+      ],
+      "type": "TAKIM",
+      "image": "assets/products/UE001440102_LEOPARD.jpg",
+      "thumbnail": "assets/thumbs/UE001440102_LEOPARD.jpg"
     },
     {
       "id": "UE001441101_LEOPARD",
       "code": "UE001441101",
       "color": "LEOPARD",
-      "title": "Eşofman",
+      "title": "Takim",
       "size": "S, M, L",
       "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/UE001441101_LEOPARD.jpg"
+      "category": "SUIT",
+      "categories": [
+        "SUIT"
+      ],
+      "type": "TAKIM",
+      "image": "assets/products/UE001441101_LEOPARD.jpg",
+      "thumbnail": "assets/thumbs/UE001441101_LEOPARD.jpg"
     },
     {
       "id": "UE001442101_LEOPARD",
@@ -2147,28 +3030,253 @@
       "title": "Takim",
       "size": "S, M, L",
       "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/UE001442101_LEOPARD.jpg"
+      "category": "SUIT",
+      "categories": [
+        "SUIT"
+      ],
+      "type": "TAKIM",
+      "image": "assets/products/UE001442101_LEOPARD.jpg",
+      "thumbnail": "assets/thumbs/UE001442101_LEOPARD.jpg"
     },
     {
       "id": "UE001451101_GRAY",
       "code": "UE001451101",
       "color": "GRAY",
-      "title": "Eşofman",
+      "title": "Takim",
       "size": "S, M, L",
       "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/UE001451101_GRAY.jpg"
+      "category": "SUIT",
+      "categories": [
+        "SUIT"
+      ],
+      "type": "TAKIM",
+      "image": "assets/products/UE001451101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/UE001451101_GRAY.jpg"
     },
     {
       "id": "UE001452101_SALMON",
       "code": "UE001452101",
       "color": "SALMON",
-      "title": "Eşofman",
+      "title": "Takim",
       "size": "S, M, L",
       "price": "28.0",
-      "category": "OTHER",
-      "image": "assets/products/UE001452101_SALMON.jpg"
+      "category": "SUIT",
+      "categories": [
+        "SUIT"
+      ],
+      "type": "TAKIM",
+      "image": "assets/products/UE001452101_SALMON.jpg",
+      "thumbnail": "assets/thumbs/UE001452101_SALMON.jpg"
+    },
+    {
+      "id": "B5507101_BLLACK",
+      "code": "B5507101",
+      "color": "BLLACK",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "78.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5507101_BLLACK.jpg",
+      "thumbnail": "assets/thumbs/B5507101_BLLACK.jpg"
+    },
+    {
+      "id": "B5507102_ECRU",
+      "code": "B5507102",
+      "color": "ECRU",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "78.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5507102_ECRU.jpg",
+      "thumbnail": "assets/thumbs/B5507102_ECRU.jpg"
+    },
+    {
+      "id": "B5514101_TONE",
+      "code": "B5514101",
+      "color": "TONE",
+      "title": "Mont",
+      "size": "S, M, L, XL",
+      "price": "95.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5514101_TONE.jpg",
+      "thumbnail": "assets/thumbs/B5514101_TONE.jpg"
+    },
+    {
+      "id": "B5514103_BROWN",
+      "code": "B5514103",
+      "color": "BROWN",
+      "title": "Mont",
+      "size": "S, M, L, XL",
+      "price": "95.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5514103_BROWN.jpg",
+      "thumbnail": "assets/thumbs/B5514103_BROWN.jpg"
+    },
+    {
+      "id": "B5516102_BROWN",
+      "code": "B5516102",
+      "color": "BROWN",
+      "title": "Mont",
+      "size": "S, M, L, XL",
+      "price": "98.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5516102_BROWN.jpg",
+      "thumbnail": "assets/thumbs/B5516102_BROWN.jpg"
+    },
+    {
+      "id": "B5516103_GRAY",
+      "code": "B5516103",
+      "color": "GRAY",
+      "title": "Mont",
+      "size": "S, M, L, XL",
+      "price": "98.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5516103_GRAY.jpg",
+      "thumbnail": "assets/thumbs/B5516103_GRAY.jpg"
+    },
+    {
+      "id": "B5519101_BLACK",
+      "code": "B5519101",
+      "color": "BLACK",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "79.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5519101_BLACK.jpg",
+      "thumbnail": "assets/thumbs/B5519101_BLACK.jpg"
+    },
+    {
+      "id": "B5519102_CAMEL",
+      "code": "B5519102",
+      "color": "CAMEL",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "79.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5519102_CAMEL.jpg",
+      "thumbnail": "assets/thumbs/B5519102_CAMEL.jpg"
+    },
+    {
+      "id": "B5519104_BEIGE",
+      "code": "B5519104",
+      "color": "BEIGE",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "79.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5519104_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/B5519104_BEIGE.jpg"
+    },
+    {
+      "id": "B5520103_BEIGE",
+      "code": "B5520103",
+      "color": "BEIGE",
+      "title": "Mont",
+      "size": "S, M, L, XL",
+      "price": "78.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5520103_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/B5520103_BEIGE.jpg"
+    },
+    {
+      "id": "B5570101_CAMEL",
+      "code": "B5570101",
+      "color": "CAMEL",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "79.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5570101_CAMEL.jpg",
+      "thumbnail": "assets/thumbs/B5570101_CAMEL.jpg"
+    },
+    {
+      "id": "B5572101_CAMEL",
+      "code": "B5572101",
+      "color": "CAMEL",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "125.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5572101_CAMEL.jpg",
+      "thumbnail": "assets/thumbs/B5572101_CAMEL.jpg"
+    },
+    {
+      "id": "B5573102_GREEN",
+      "code": "B5573102",
+      "color": "GREEN",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "99.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/B5573102_GREEN.jpg",
+      "thumbnail": "assets/thumbs/B5573102_GREEN.jpg"
+    },
+    {
+      "id": "S5522101_ECRU",
+      "code": "S5522101",
+      "color": "ECRU",
+      "title": "Mont",
+      "size": "36, 38, 40, 42",
+      "price": "79.0",
+      "category": "OUTFIT",
+      "categories": [
+        "OUTFIT"
+      ],
+      "type": "MONT",
+      "image": "assets/products/S5522101_ECRU.jpg",
+      "thumbnail": "assets/thumbs/S5522101_ECRU.jpg"
     }
   ]
 }
