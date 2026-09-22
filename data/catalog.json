@@ -1261,21 +1261,6 @@
       "thumbnail": "assets/thumbs/B841103_BLUE.jpg"
     },
     {
-      "id": "B850101_BLUE",
-      "code": "B850101",
-      "color": "BLUE",
-      "title": "Pantolon",
-      "size": "26, 27, 28, 29, 30",
-      "price": "30.0",
-      "category": "PANTS",
-      "categories": [
-        "PANTS"
-      ],
-      "type": "PANTOLON",
-      "image": "assets/products/B850101_BLUE.jpg",
-      "thumbnail": "assets/thumbs/B850101_BLUE.jpg"
-    },
-    {
       "id": "B857101_BLACK",
       "code": "B857101",
       "color": "BLACK",
