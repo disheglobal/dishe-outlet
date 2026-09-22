@@ -2312,21 +2312,6 @@
       "thumbnail": "assets/thumbs/SO00564101_BLACK.jpg"
     },
     {
-      "id": "SO00568101_BEIGE",
-      "code": "SO00568101",
-      "color": "BEIGE",
-      "title": "Tri̇ko",
-      "size": "36, 38, 40",
-      "price": "19.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/SO00568101_BEIGE.jpg",
-      "thumbnail": "assets/thumbs/SO00568101_BEIGE.jpg"
-    },
-    {
       "id": "SO00568101_BLACK",
       "code": "SO00568101",
       "color": "BLACK",
