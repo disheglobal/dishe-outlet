@@ -1898,22 +1898,6 @@
       "thumbnail": "assets/thumbs/BO00528105_PINK.jpg"
     },
     {
-      "id": "BO7941101_ECRU",
-      "code": "BO7941101",
-      "color": "ECRU",
-      "title": "Tri̇ko Dress",
-      "size": "S, M, L, XL",
-      "price": "42.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR",
-        "DRESS"
-      ],
-      "type": "TRİKO DRESS",
-      "image": "assets/products/BO7941101_ECRU.jpg",
-      "thumbnail": "assets/thumbs/BO7941101_ECRU.jpg"
-    },
-    {
       "id": "BO7941102_BLACK",
       "code": "BO7941102",
       "color": "BLACK",
