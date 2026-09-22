@@ -1822,21 +1822,6 @@
       "thumbnail": "assets/thumbs/AO00365101_SIYAH.jpg"
     },
     {
-      "id": "ATK00315101_YELLOW",
-      "code": "ATK00315101",
-      "color": "YELLOW",
-      "title": "Tri̇ko",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/ATK00315101_YELLOW.jpg",
-      "thumbnail": "assets/thumbs/ATK00315101_YELLOW.jpg"
-    },
-    {
       "id": "B00517101_BEIGE",
       "code": "B00517101",
       "color": "BEIGE",
