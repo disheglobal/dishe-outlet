@@ -1561,21 +1561,6 @@
       "thumbnail": "assets/thumbs/S224101_BLUE.jpg"
     },
     {
-      "id": "S224102_BLUE",
-      "code": "S224102",
-      "color": "BLUE",
-      "title": "Pantolon",
-      "size": "26, 27, 28, 29, 30",
-      "price": "29.0",
-      "category": "PANTS",
-      "categories": [
-        "PANTS"
-      ],
-      "type": "PANTOLON",
-      "image": "assets/products/S224102_BLUE.jpg",
-      "thumbnail": "assets/thumbs/S224102_BLUE.jpg"
-    },
-    {
       "id": "S250101_BLACK",
       "code": "S250101",
       "color": "BLACK",
