@@ -2069,21 +2069,6 @@
       "thumbnail": "assets/thumbs/DO00659101_GRAY.jpg"
     },
     {
-      "id": "RO00446104_GREEN",
-      "code": "RO00446104",
-      "color": "GREEN",
-      "title": "Tri̇ko",
-      "size": "S, M, M, L",
-      "price": "18.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/RO00446104_GREEN.jpg",
-      "thumbnail": "assets/thumbs/RO00446104_GREEN.jpg"
-    },
-    {
       "id": "RO00448104_GREEN",
       "code": "RO00448104",
       "color": "GREEN",
