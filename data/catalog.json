@@ -2281,22 +2281,6 @@
       "thumbnail": "assets/thumbs/SO00548101_ECRU.jpg"
     },
     {
-      "id": "SO00548101_GRAY",
-      "code": "SO00548101",
-      "color": "GRAY",
-      "title": "Tri̇ko Dress",
-      "size": "S, M, L, XL",
-      "price": "55.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR",
-        "DRESS"
-      ],
-      "type": "TRİKO DRESS",
-      "image": "assets/products/SO00548101_GRAY.jpg",
-      "thumbnail": "assets/thumbs/SO00548101_GRAY.jpg"
-    },
-    {
       "id": "SO00549101_ECRU",
       "code": "SO00549101",
       "color": "ECRU",
