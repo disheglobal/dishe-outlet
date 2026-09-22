@@ -2480,22 +2480,6 @@
       "thumbnail": "assets/thumbs/STK00545101_PINK.jpg"
     },
     {
-      "id": "STK00547101_BLACK",
-      "code": "STK00547101",
-      "color": "BLACK",
-      "title": "Tri̇ko Takim",
-      "size": "S, M, L, XL",
-      "price": "49.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR",
-        "SUIT"
-      ],
-      "type": "TRİKO TAKIM",
-      "image": "assets/products/STK00547101_BLACK.jpg",
-      "thumbnail": "assets/thumbs/STK00547101_BLACK.jpg"
-    },
-    {
       "id": "B1653103_BLUE",
       "code": "B1653103",
       "color": "BLUE",
