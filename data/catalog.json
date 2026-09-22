@@ -2037,22 +2037,6 @@
       "thumbnail": "assets/thumbs/BO7943105_CAMEL.jpg"
     },
     {
-      "id": "BO7943106_ANTRA",
-      "code": "BO7943106",
-      "color": "ANTRA",
-      "title": "Tri̇ko Dress",
-      "size": "S, M, L",
-      "price": "45.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR",
-        "DRESS"
-      ],
-      "type": "TRİKO DRESS",
-      "image": "assets/products/BO7943106_ANTRA.jpg",
-      "thumbnail": "assets/thumbs/BO7943106_ANTRA.jpg"
-    },
-    {
       "id": "BO7943107_GRAY",
       "code": "BO7943107",
       "color": "GRAY",
