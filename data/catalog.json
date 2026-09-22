@@ -1696,21 +1696,6 @@
       "thumbnail": "assets/thumbs/S878101_BLUE.jpg"
     },
     {
-      "id": "S878103_BLUE",
-      "code": "S878103",
-      "color": "BLUE",
-      "title": "Pantolon",
-      "size": "26, 27, 28, 29, 30",
-      "price": "28.0",
-      "category": "PANTS",
-      "categories": [
-        "PANTS"
-      ],
-      "type": "PANTOLON",
-      "image": "assets/products/S878103_BLUE.jpg",
-      "thumbnail": "assets/thumbs/S878103_BLUE.jpg"
-    },
-    {
       "id": "S884102_BLACK",
       "code": "S884102",
       "color": "BLACK",
