@@ -2296,21 +2296,6 @@
       "thumbnail": "assets/thumbs/SO00541101_NAVYBLU.jpg"
     },
     {
-      "id": "SO00542101_GRAY",
-      "code": "SO00542101",
-      "color": "GRAY",
-      "title": "Tri̇ko",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/SO00542101_GRAY.jpg",
-      "thumbnail": "assets/thumbs/SO00542101_GRAY.jpg"
-    },
-    {
       "id": "SO00546101_BLACK",
       "code": "SO00546101",
       "color": "BLACK",
