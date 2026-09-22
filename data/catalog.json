@@ -1396,21 +1396,6 @@
       "thumbnail": "assets/thumbs/J524103_GRAY.jpg"
     },
     {
-      "id": "R521103_BLUE",
-      "code": "R521103",
-      "color": "BLUE",
-      "title": "Pantolon",
-      "size": "26, 27, 28, 29, 30",
-      "price": "19.0",
-      "category": "PANTS",
-      "categories": [
-        "PANTS"
-      ],
-      "type": "PANTOLON",
-      "image": "assets/products/R521103_BLUE.jpg",
-      "thumbnail": "assets/thumbs/R521103_BLUE.jpg"
-    },
-    {
       "id": "R522103_BLUE",
       "code": "R522103",
       "color": "BLUE",
