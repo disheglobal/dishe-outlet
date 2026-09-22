@@ -1411,21 +1411,6 @@
       "thumbnail": "assets/thumbs/B936102_BLUE.jpg"
     },
     {
-      "id": "D832101G_GRAY",
-      "code": "D832101-G",
-      "color": "GRAY",
-      "title": "Pantolon",
-      "size": "26, 27, 28, 29, 30",
-      "price": "19.0",
-      "category": "PANTS",
-      "categories": [
-        "PANTS"
-      ],
-      "type": "PANTOLON",
-      "image": "assets/products/D832101G_GRAY.jpg",
-      "thumbnail": "assets/thumbs/D832101G_GRAY.jpg"
-    },
-    {
       "id": "J524103_GRAY",
       "code": "J524103",
       "color": "GRAY",
