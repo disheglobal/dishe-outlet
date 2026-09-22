@@ -1066,21 +1066,6 @@
       "thumbnail": "assets/thumbs/B5483102_BLUE.jpg"
     },
     {
-      "id": "D5374101_GRAY",
-      "code": "D5374101",
-      "color": "GRAY",
-      "title": "Ceket",
-      "size": "S, M, L, XL",
-      "price": "24.0",
-      "category": "JACKET",
-      "categories": [
-        "JACKET"
-      ],
-      "type": "CEKET",
-      "image": "assets/products/D5374101_GRAY.jpg",
-      "thumbnail": "assets/thumbs/D5374101_GRAY.jpg"
-    },
-    {
       "id": "D5448101_GRAY",
       "code": "D5448101",
       "color": "GRAY",
