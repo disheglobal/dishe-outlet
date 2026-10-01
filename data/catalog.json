@@ -76,21 +76,6 @@
       "thumbnail": "assets/thumbs/B1969101_BLUE.jpg"
     },
     {
-      "id": "B9278101_BLACK",
-      "code": "B9278101",
-      "color": "BLACK",
-      "title": "Big Size",
-      "size": "31, 32, 33, 34, 36",
-      "price": "29.0",
-      "category": "BIG_SIZE",
-      "categories": [
-        "BIG_SIZE"
-      ],
-      "type": "BIG SIZE",
-      "image": "assets/products/B9278101_BLACK.jpg",
-      "thumbnail": "assets/thumbs/B9278101_BLACK.jpg"
-    },
-    {
       "id": "S9270102_BLUE",
       "code": "S9270102",
       "color": "BLUE",
@@ -104,21 +89,6 @@
       "type": "BIG SIZE",
       "image": "assets/products/S9270102_BLUE.jpg",
       "thumbnail": "assets/thumbs/S9270102_BLUE.jpg"
-    },
-    {
-      "id": "S9280102_BLACK",
-      "code": "S9280102",
-      "color": "BLACK",
-      "title": "Big Size",
-      "size": "31, 32, 33, 34, 36",
-      "price": "32.0",
-      "category": "BIG_SIZE",
-      "categories": [
-        "BIG_SIZE"
-      ],
-      "type": "BIG SIZE",
-      "image": "assets/products/S9280102_BLACK.jpg",
-      "thumbnail": "assets/thumbs/S9280102_BLACK.jpg"
     },
     {
       "id": "S9411101_BLACK",
@@ -886,21 +856,6 @@
       "thumbnail": "assets/thumbs/R550102_BLUE.jpg"
     },
     {
-      "id": "R550104_BLUE",
-      "code": "R550104",
-      "color": "BLUE",
-      "title": "Pantolon",
-      "size": "26, 27, 28, 29, 30",
-      "price": "19.0",
-      "category": "PANTS",
-      "categories": [
-        "PANTS"
-      ],
-      "type": "PANTOLON",
-      "image": "assets/products/R550104_BLUE.jpg",
-      "thumbnail": "assets/thumbs/R550104_BLUE.jpg"
-    },
-    {
       "id": "R556102_BLUE",
       "code": "R556102",
       "color": "BLUE",
@@ -929,21 +884,6 @@
       "type": "PANTOLON",
       "image": "assets/products/S177101_BLACK.jpg",
       "thumbnail": "assets/thumbs/S177101_BLACK.jpg"
-    },
-    {
-      "id": "S224101_BLUE",
-      "code": "S224101",
-      "color": "BLUE",
-      "title": "Pantolon",
-      "size": "26, 27, 28, 29, 30",
-      "price": "29.0",
-      "category": "PANTS",
-      "categories": [
-        "PANTS"
-      ],
-      "type": "PANTOLON",
-      "image": "assets/products/S224101_BLUE.jpg",
-      "thumbnail": "assets/thumbs/S224101_BLUE.jpg"
     },
     {
       "id": "S250101_BLACK",
@@ -1261,21 +1201,6 @@
       "thumbnail": "assets/thumbs/AO00314101_YELLOW.jpg"
     },
     {
-      "id": "AO00316101_BLACK",
-      "code": "AO00316101",
-      "color": "BLACK",
-      "title": "Tri̇ko",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/AO00316101_BLACK.jpg",
-      "thumbnail": "assets/thumbs/AO00316101_BLACK.jpg"
-    },
-    {
       "id": "AO00317101_BLACK",
       "code": "AO00317101",
       "color": "BLACK",
@@ -1305,37 +1230,6 @@
       "type": "TRİKO DRESS",
       "image": "assets/products/AO00317101_BROWN.jpg",
       "thumbnail": "assets/thumbs/AO00317101_BROWN.jpg"
-    },
-    {
-      "id": "AO00318101_BLACK",
-      "code": "AO00318101",
-      "color": "BLACK",
-      "title": "Tri̇ko",
-      "size": "S, M, L, XL",
-      "price": "34.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/AO00318101_BLACK.jpg",
-      "thumbnail": "assets/thumbs/AO00318101_BLACK.jpg"
-    },
-    {
-      "id": "AO00365101_BLACK",
-      "code": "AO00365101",
-      "color": "BLACK",
-      "title": "Triko Etek",
-      "size": "S, M, L, XL",
-      "price": "24.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR",
-        "SKIRT"
-      ],
-      "type": "TRIKO ETEK",
-      "image": "assets/products/AO00365101_BLACK.jpg",
-      "thumbnail": "assets/thumbs/AO00365101_BLACK.jpg"
     },
     {
       "id": "AO00365101_SIYAH",
@@ -1623,22 +1517,6 @@
       "type": "TRİKO",
       "image": "assets/products/BO7943105_CAMEL.jpg",
       "thumbnail": "assets/thumbs/BO7943105_CAMEL.jpg"
-    },
-    {
-      "id": "BO7943107_GRAY",
-      "code": "BO7943107",
-      "color": "GRAY",
-      "title": "Tri̇ko Dress",
-      "size": "S, M, L",
-      "price": "45.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR",
-        "DRESS"
-      ],
-      "type": "TRİKO DRESS",
-      "image": "assets/products/BO7943107_GRAY.jpg",
-      "thumbnail": "assets/thumbs/BO7943107_GRAY.jpg"
     },
     {
       "id": "BO7943108_BLACK",
@@ -2179,22 +2057,6 @@
       "type": "TRİKO",
       "image": "assets/products/SO00684101_ECRU.jpg",
       "thumbnail": "assets/thumbs/SO00684101_ECRU.jpg"
-    },
-    {
-      "id": "STK00545101_ECRU",
-      "code": "STK00545101",
-      "color": "ECRU",
-      "title": "Tri̇ko Takim",
-      "size": "S, M, L, XL",
-      "price": "49.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR",
-        "SUIT"
-      ],
-      "type": "TRİKO TAKIM",
-      "image": "assets/products/STK00545101_ECRU.jpg",
-      "thumbnail": "assets/thumbs/STK00545101_ECRU.jpg"
     },
     {
       "id": "STK00545101_PINK",
