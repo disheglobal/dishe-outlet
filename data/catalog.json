@@ -1366,21 +1366,6 @@
       "thumbnail": "assets/thumbs/SO00549101_ECRU.jpg"
     },
     {
-      "id": "SO00561101_CREAM",
-      "code": "SO00561101",
-      "color": "CREAM",
-      "title": "Tri̇ko",
-      "size": "L, M, S",
-      "price": "19.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/SO00561101_CREAM.jpg",
-      "thumbnail": "assets/thumbs/SO00561101_CREAM.jpg"
-    },
-    {
       "id": "SO00563101_BLACK",
       "code": "SO00563101",
       "color": "BLACK",
