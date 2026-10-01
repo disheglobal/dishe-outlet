@@ -1201,6 +1201,36 @@
       "thumbnail": "assets/thumbs/DO00659101_GRAY.jpg"
     },
     {
+      "id": "DO00663101_BEIGE",
+      "code": "DO00663101",
+      "color": "BEIGE",
+      "title": "Tri̇ko",
+      "size": "L, M, S, XL",
+      "price": "35.0",
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/DO00663101_BEIGE.jpg",
+      "thumbnail": "assets/thumbs/DO00663101_BEIGE.jpg"
+    },
+    {
+      "id": "DO00663101_GRAY",
+      "code": "DO00663101",
+      "color": "GRAY",
+      "title": "Tri̇ko",
+      "size": "L, M, S, XL",
+      "price": "35.0",
+      "category": "KNITWEAR",
+      "categories": [
+        "KNITWEAR"
+      ],
+      "type": "TRİKO",
+      "image": "assets/products/DO00663101_GRAY.jpg",
+      "thumbnail": "assets/thumbs/DO00663101_GRAY.jpg"
+    },
+    {
       "id": "RO00448104_GREEN",
       "code": "RO00448104",
       "color": "GREEN",
