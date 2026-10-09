@@ -1352,21 +1352,6 @@
       "thumbnail": "assets/thumbs/BO7943105_CAMEL.jpg"
     },
     {
-      "id": "BO7943108_BLACK",
-      "code": "BO7943108",
-      "color": "BLACK",
-      "title": "Tri̇ko",
-      "size": "L, M, S",
-      "price": "45.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/BO7943108_BLACK.jpg",
-      "thumbnail": "assets/thumbs/BO7943108_BLACK.jpg"
-    },
-    {
       "id": "DO00659101_BEIGE",
       "code": "DO00659101",
       "color": "BEIGE",
@@ -1605,21 +1590,6 @@
       "type": "TRİKO",
       "image": "assets/products/SO00590101_BLACK.jpg",
       "thumbnail": "assets/thumbs/SO00590101_BLACK.jpg"
-    },
-    {
-      "id": "SO00590101_ECRU",
-      "code": "SO00590101",
-      "color": "ECRU",
-      "title": "Tri̇ko",
-      "size": "42, 44, 46",
-      "price": "19.0",
-      "category": "KNITWEAR",
-      "categories": [
-        "KNITWEAR"
-      ],
-      "type": "TRİKO",
-      "image": "assets/products/SO00590101_ECRU.jpg",
-      "thumbnail": "assets/thumbs/SO00590101_ECRU.jpg"
     },
     {
       "id": "SO00592101_BROWN",
